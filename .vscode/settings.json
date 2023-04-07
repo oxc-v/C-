@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "*.tpl": "html",
-        "cstddef": "cpp"
+        "cstddef": "cpp",
+        "atomic": "cpp"
     }
 }
